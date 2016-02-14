@@ -1,7 +1,6 @@
-ReactStarter
+react-editor
 ====
 
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
 
 ---
 
